@@ -138,7 +138,7 @@ Ce projet met en œuvre un processus ETL complet de collecte, transformation, et
 
 ## Auteurs
 
-- **Nom** : Ahmadou NDIAYE  
-- **Email** : ahmadou.ndiaye030602@gmail.com
+- **Nom** : El Hadji Ablaye Galoup DIOP  
+- **Email** : elhadjiablayegaloupdiop@gmail.com
 
 
