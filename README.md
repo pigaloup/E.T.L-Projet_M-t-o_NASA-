@@ -25,8 +25,8 @@ Le projet est divisé en plusieurs étapes clés :
 - Suppression des valeurs nulles et des doublons.
 - Renommage des colonnes pour plus de clarté.
 
-3. **Création et Chargement de la base de donnée dans SQL workbench** :
-- Insertion des données nettoyées dans **PostgreSQL** via un processus de batch pour accélérer l'insertion.
+3. **Création et Chargement de la base de donnée dans MySQL workbench** :
+- Insertion des données nettoyées dans **MySQL workbench** via un processus de batch pour accélérer l'insertion.
 
 4. **Visualisation des données** :
 Utilisation de **Power BI** pour créer des visualisations interactives les données météorologiques, en analysant les variables telles que :
