@@ -1,0 +1,55 @@
+2025-10-17 13:27:57,626 - INFO - Début de l'extraction des données
+2025-10-17 13:28:31,385 - INFO - Fin de l'extraction des données
+2025-10-17 13:28:31,385 - INFO - Début de la transformation des données
+2025-10-17 13:28:31,386 - ERROR - Erreur globale du pipeline ETL : 'DataFrame' object has no attribute 'withColumn'
+2025-10-17 13:41:10,756 - INFO - Début de l'extraction des données
+2025-10-17 13:41:47,973 - INFO - Fin de l'extraction des données
+2025-10-17 13:41:47,973 - INFO - Début de la transformation des données
+2025-10-17 13:41:47,973 - ERROR - Erreur globale du pipeline ETL : 
+2025-10-17 13:53:20,772 - INFO - Début de l'extraction des données
+2025-10-17 13:53:57,284 - INFO - Fin de l'extraction des données
+2025-10-17 13:53:57,284 - INFO - Début de la transformation des données
+2025-10-17 13:53:57,284 - ERROR - Erreur globale du pipeline ETL : 
+2025-10-17 13:56:31,245 - INFO - Début de l'extraction des données
+2025-10-17 13:57:04,624 - INFO - Fin de l'extraction des données
+2025-10-17 13:57:04,625 - INFO - Début de la transformation des données
+2025-10-17 13:57:04,625 - ERROR - Erreur globale du pipeline ETL : 'DataFrame' object has no attribute 'withColumn'
+2025-10-17 13:57:42,760 - INFO - Début de l'extraction des données
+2025-10-17 13:58:16,813 - INFO - Fin de l'extraction des données
+2025-10-17 13:58:16,813 - INFO - Début de la transformation des données
+2025-10-17 13:58:16,813 - ERROR - Erreur globale du pipeline ETL : 
+2025-10-17 14:49:47,224 - INFO - Début de l'extraction des données
+2025-10-17 14:50:25,562 - INFO - Fin de l'extraction des données
+2025-10-17 14:50:25,563 - INFO - Début de la transformation des données
+2025-10-17 14:50:25,563 - ERROR - Erreur globale du pipeline ETL : 
+2025-10-17 14:52:05,564 - INFO - Début de l'extraction des données
+2025-10-17 14:52:38,703 - INFO - Fin de l'extraction des données
+2025-10-17 14:52:38,704 - INFO - Début de la transformation des données
+2025-10-17 14:52:38,704 - ERROR - Erreur globale du pipeline ETL : 
+2025-10-17 14:56:22,560 - INFO - Début de l'extraction des données
+2025-10-17 14:56:55,020 - INFO - Fin de l'extraction des données
+2025-10-17 14:56:55,020 - INFO - Début de la transformation des données
+2025-10-17 14:56:55,020 - ERROR - Erreur globale du pipeline ETL : 
+2025-10-17 15:04:24,676 - INFO - Début de l'extraction des données
+2025-10-17 15:04:59,312 - INFO - Fin de l'extraction des données
+2025-10-17 15:04:59,312 - INFO - Initialisation de Spark
+2025-10-17 15:04:59,500 - INFO - Début de la transformation des données
+2025-10-17 15:05:05,999 - INFO - Fin de la transformation des données
+2025-10-17 15:05:05,999 - INFO - Début du chargement des données
+2025-10-17 15:05:07,418 - ERROR - Erreur globale du pipeline ETL : 'list' object has no attribute 'tolist'
+2025-10-17 15:07:28,135 - INFO - Début de l'extraction des données
+2025-10-17 15:08:00,998 - INFO - Fin de l'extraction des données
+2025-10-17 15:08:00,998 - INFO - Initialisation de Spark
+2025-10-17 15:08:00,998 - INFO - Début de la transformation des données
+2025-10-17 15:08:06,633 - INFO - Fin de la transformation des données
+2025-10-17 15:08:06,633 - INFO - Début du chargement des données
+2025-10-17 15:08:08,136 - ERROR - Erreur globale du pipeline ETL : 'list' object has no attribute 'tolist'
+2025-10-17 15:34:39,389 - INFO - Début de l'extraction des données
+2025-10-17 15:35:16,625 - INFO - Fin de l'extraction des données
+2025-10-17 15:35:16,625 - INFO - Initialisation de Spark
+2025-10-17 15:35:16,627 - INFO - Début de la transformation des données
+2025-10-17 15:35:22,693 - INFO - Fin de la transformation des données
+2025-10-17 15:35:22,693 - INFO - Début du chargement des données
+2025-10-17 15:35:38,962 - INFO - Fin du chargement des données
+2025-10-17 15:35:38,962 - INFO - Pipeline ETL terminé avec succès
+
