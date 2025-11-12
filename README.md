@@ -94,7 +94,7 @@ L’humidité relative varie fortement selon l’heure (influencée par la temp�
 
 Ce graphique est idéal pour expliquer pourquoi on peut ressentir un air “sec” en journée même s’il contient beaucoup d’humidité.
 
-
+A- **Carte géographique représentant la température ambiante dans les 7 pays ("Senegal","mali","cote_d_ivoire","guinee","nigeria","ghana","burkina faso**
   
 
 
