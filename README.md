@@ -31,7 +31,7 @@ Le projet est divisé en plusieurs étapes clés :
 4. **Visualisation des données** :
 Utilisation de **Power BI** pour créer des visualisations interactives les données météorologiques, en analysant les variables telles que :
 
-🌡️ Graphique comparatif des températures sur 24 heures. Il illustre clairement les écarts entre la température de l'air, la température humide et la température du point de rosée.
+**Graphique comparatif des températures sur 24 heures. Il illustre clairement les écarts entre la température de l'air, la température humide et la température du point de rosée.**
 
 
 **Explications :** 
