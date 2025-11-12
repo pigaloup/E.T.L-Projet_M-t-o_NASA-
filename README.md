@@ -70,6 +70,28 @@ Dans les données NASA : C’est le paramètre T2MDEW.
 
 - L’influence de l’humidité sur la température ressentie
 
+B- **Graphique comparatif qui illustre clairement la différence entre l’humidité relative et l’humidité spécifique sur 24 heures**
+
+📊 Interprétation du graphique
+
+-Humidité relative (courbe bleue) :
+
+Elle est plus élevée la nuit et tôt le matin (jusqu’à 94 %), car l’air est plus froid et donc plus proche de la saturation.
+
+Elle diminue en journée (jusqu’à 53 %) lorsque la température augmente, même si la quantité d’eau reste stable.
+
+-Humidité spécifique (courbe verte) :
+
+Elle varie peu sur la journée, car elle mesure la quantité réelle de vapeur d’eau dans l’air.
+
+Elle augmente légèrement en journée, probablement à cause de l’évaporation.
+
+👉 Conclusion visuelle :
+
+L’humidité relative varie fortement selon l’heure (influencée par la température) tandis que l’humidité spécifique reste plus stable (quantité réelle de vapeur d’eau)
+
+Ce graphique est idéal pour expliquer pourquoi on peut ressentir un air “sec” en journée même s’il contient beaucoup d’humidité.
+
 
   
 
