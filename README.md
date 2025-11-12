@@ -30,12 +30,46 @@ Le projet est divisé en plusieurs étapes clés :
 
 4. **Visualisation des données** :
 Utilisation de **Power BI** pour créer des visualisations interactives les données météorologiques, en analysant les variables telles que :
+
+🌡️ 1. Température de l’air (temperature_air)
+Définition : C’est la température mesurée à 2 mètres du sol dans des conditions normales, sans influence directe du rayonnement solaire ou du vent.
+Utilité : Elle représente la température ambiante ressentie et est utilisée pour les prévisions météo classiques.
+Dans les données NASA : C’est le paramètre T2M.
+
+💧 2. Température humide (temperature_humide)
+Définition : C’est la température mesurée par un thermomètre dont le bulbe est humidifié et exposé à l’air. Elle tient compte de l’évaporation, donc de l’humidité de l’air.
+Utilité :
+Elle est toujours inférieure ou égale à la température de l’air.
+Elle est utilisée pour calculer l’indice de chaleur et pour évaluer le stress thermique.
+Dans les données NASA : C’est le paramètre T2MWET.
+
+🌫️ 3. Température du point de rosée (temperature_point_rosee)
+Définition : C’est la température à laquelle l’air doit être refroidi pour que la vapeur d’eau qu’il contient commence à se condenser (formation de rosée ou de buée).
+Utilité :
+Elle indique le niveau de saturation de l’air en humidité.
+Si le point de rosée est proche de la température de l’air, cela signifie que l’humidité relative est élevée.
+Dans les données NASA : C’est le paramètre T2MDEW.
+
+🌡️ Graphique comparatif des températures sur 24 heures. Il illustre clairement les écarts entre la température de l'air, la température humide et la température du point de rosée.
   
-- Température de l'air (`temperature_air`)
-- Humidité relative (`humidite_relative`)
-- Temps (`date`, `heure`, `mois`, `année`, etc.)
-- Température humide (`temperature_humide`)
-- Localisation (pays, ville)
+📈 Interprétation du graphique
+- Température de l’air (rouge) : suit une courbe classique, montant en journée et descendant la nuit.
+
+- Température humide (bleu) : toujours inférieure à la température de l’air, elle reflète l’effet de l’humidité sur la sensation thermique.
+
+- Température du point de rosée (vert) : reste la plus basse, indiquant le seuil de condensation de la vapeur d’eau.
+
+👉 Ces trois courbes permettent de visualiser :
+
+- Le niveau de confort thermique (écart entre air et humide)
+
+- Le risque de condensation ou de brouillard (écart entre air et rosée)
+
+- L’influence de l’humidité sur la température ressentie
+
+
+  
+
 
 ## Conclusion
 
