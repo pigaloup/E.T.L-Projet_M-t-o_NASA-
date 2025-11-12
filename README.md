@@ -31,6 +31,8 @@ Le projet est divisé en plusieurs étapes clés :
 4. **Visualisation des données** :
 Utilisation de **Power BI** pour créer des visualisations interactives les données météorologiques, en analysant les variables telles que :
 
+🌡️ Graphique comparatif des températures sur 24 heures. Il illustre clairement les écarts entre la température de l'air, la température humide et la température du point de rosée.
+
 🌡️ 1. Température de l’air (temperature_air)
 Définition : C’est la température mesurée à 2 mètres du sol dans des conditions normales, sans influence directe du rayonnement solaire ou du vent.
 Utilité : Elle représente la température ambiante ressentie et est utilisée pour les prévisions météo classiques.
@@ -49,8 +51,6 @@ Utilité :
 Elle indique le niveau de saturation de l’air en humidité.
 Si le point de rosée est proche de la température de l’air, cela signifie que l’humidité relative est élevée.
 Dans les données NASA : C’est le paramètre T2MDEW.
-
-🌡️ Graphique comparatif des températures sur 24 heures. Il illustre clairement les écarts entre la température de l'air, la température humide et la température du point de rosée.
   
 📈 Interprétation du graphique
 - Température de l’air (rouge) : suit une courbe classique, montant en journée et descendant la nuit.
