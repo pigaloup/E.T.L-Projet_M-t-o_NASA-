@@ -72,6 +72,8 @@ Dans les données NASA : C’est le paramètre T2MDEW.
 
 B- **Graphique comparatif qui illustre clairement la différence entre l’humidité relative et l’humidité spécifique sur 24 heures**
 
+**Explications :** 
+
 📊 Interprétation du graphique
 
 -Humidité relative (courbe bleue) :
