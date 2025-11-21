@@ -70,7 +70,7 @@ Dans les données NASA : C’est le paramètre T2MDEW.
 
 - L’influence de l’humidité sur la température ressentie
 
-B- **Graphique comparatif qui illustre clairement la différence entre l’humidité relative et l’humidité spécifique sur 24 heures**
+**B- Graphique comparatif qui illustre clairement la différence entre l’humidité relative et l’humidité spécifique sur 24 heures**
 
 **Explications :** 
 
@@ -94,7 +94,7 @@ L’humidité relative varie fortement selon l’heure (influencée par la temp�
 
 Ce graphique est idéal pour expliquer pourquoi on peut ressentir un air “sec” en journée même s’il contient beaucoup d’humidité.
 
-C- **Graphique en barres groupées pour comparer visuellement l’humidité relative moyenne entre plusieurs villes, tout en distinguant les pays auxquels elles appartiennent.**
+**C- Graphique en barres groupées pour comparer visuellement l’humidité relative moyenne entre plusieurs villes, tout en distinguant les pays auxquels elles appartiennent.**
 
 🔍 1. Comparaison intra-pays
 Vous pouvez observer les différences d’humidité entre les villes d’un même pays.
