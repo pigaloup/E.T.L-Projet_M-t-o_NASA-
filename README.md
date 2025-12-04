@@ -6,7 +6,7 @@ Ce projet met en place un **pipeline ETL automatisé** pour collecter, transform
 L’objectif est de construire une base de données exploitable pour l’analyse climatique de plusieurs pays d’Afrique de l’Ouest (Sénégal, Mali, Côte d’Ivoire, Guinée, Nigeria, Ghana, Burkina Faso). Le pipeline est orchestré par **Apache Airflow**, qui planifie et supervise l’ensemble du processus. Les données brutes sont nettoyées et transformées grâce à **Apache Spark**, puis les résultats finalisés sont stockés dans une base de données **MySQL** pour faciliter leur exploitation et leur analyse.
 Le projet comprend également des étapes d'analyse statistique et de visualisation des données dans [**Power BI**](https://github.com/pigaloup/E.T.L-AIRFLOW_Projet_Meteo_NASA-/blob/main/Readme_POWERBI.md).
 
-[🎬 Voir la vidéo de démonstration](./ETL+AIRFLOW/ETL_AIRFLOW_METEO.mp4)
+## 🎬 [Télécharger la vidéo de démonstration](./ETL+AIRFLOW/ETL_AIRFLOW_METEO.mp4)
 ---
 
 ## ⚙️ Architecture du projet
@@ -106,6 +106,7 @@ En réalisant ce projet, j’ai développé les compétences suivantes :
 ![Visualisation des données2](ETL+AIRFLOW/2.PNG).
 
 
+## 🎬 [Télécharger la vidéo de démonstration](./ETL+AIRFLOW/ETL_AIRFLOW_METEO.mp4)
 
 ## Conclusion
 
