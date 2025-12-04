@@ -72,40 +72,8 @@ Le DAG `nasa_etl_pipeline` orchestre les 3 étapes :
     CSV --> |Chargement| MySQL[(Base MySQL)]
     MySQL --> |Analyse & Visualisation| PowerBI[Power BI]
 
+    
 
-👉 Conclusion visuelle :
-
-L’humidité relative varie fortement selon l’heure (influencée par la température) tandis que l’humidité spécifique reste plus stable (quantité réelle de vapeur d’eau)
-
-Ce graphique est idéal pour expliquer pourquoi on peut ressentir un air “sec” en journée même s’il contient beaucoup d’humidité.
-
-**C- Graphique en barres groupées pour comparer visuellement l’humidité relative moyenne entre plusieurs villes, tout en distinguant les pays auxquels elles appartiennent.**
-
-🔍 1. Comparaison intra-pays
-Vous pouvez observer les différences d’humidité entre les villes d’un même pays.
-
-Exemple : Si Dakar et Saint-Louis (Sénégal) ont des barres très différentes, cela indique une variation climatique régionale.
-
-🌍 2. Comparaison inter-pays
-Grâce à la légende par pays, vous pouvez comparer les niveaux d’humidité entre pays.
-
-Exemple : Si les villes de la Guinée ont des barres plus hautes que celles du Sénégal, cela suggère que le climat Guinéen est plus humide.
-
-📈 3. Identification des zones les plus humides ou les plus sèches
-
--Les barres les plus hautes indiquent les villes avec une humidité relative moyenne élevée (air saturé, climat humide).
-
--Les barres les plus basses révèlent les villes avec une humidité plus faible (air sec, climat aride).
-
-🧭 4. Analyse géographique et climatique
-
-Ce graphique peut révéler des tendances climatiques régionales :
-
-Les villes côtières ont souvent une humidité plus élevée.
-
-Les villes en altitude ou en zone désertique ont une humidité plus faible.
-
----
 
 ## Conclusion
 
