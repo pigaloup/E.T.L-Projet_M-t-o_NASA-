@@ -98,13 +98,13 @@ En réalisant ce projet, j’ai développé les compétences suivantes :
 - Mise en place d’une architecture reproductible et évolutive  
 - Démonstration de compétences clés recherchées en **data engineering**
 
-[👉 Voir la Visualisation des données dans Power BI](https://github.com/pigaloup/E.T.L-AIRFLOW_Projet_Meteo_NASA-/blob/main/M%C3%A9t%C3%A9o_project.pbix)
+[👉 Voir la Visualisation des données dans Power BI](https://github.com/pigaloup/E.T.L-AIRFLOW_Projet_Meteo_NASA-/blob/main/M%C3%A9t%C3%A9o_project.pbix).
 
 
-![Visualisation des données](ETL+AIRFLOW/1.PNG)
+![Visualisation des données](ETL+AIRFLOW/1.PNG).
 
 
-![Visualisation des données](ETL+AIRFLOW/2.PNG)
+![Visualisation des données](ETL+AIRFLOW/2.PNG).
 
 ## Conclusion
 
