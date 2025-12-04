@@ -51,7 +51,6 @@ Le DAG `nasa_etl_pipeline` orchestre les 3 étapes :
 Voici une représentation visuelle du pipeline ETL orchestré avec Apache Airflow :
 
 ![Schéma d’architecture du pipeline ETL](ETL+AIRFLOW/ETL_ARCHITECTURE.jpg)
-
 ---
 
 ## 🛠️ Compétences acquises
