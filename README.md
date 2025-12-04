@@ -34,9 +34,11 @@ Le projet comprend également des étapes d'analyse statistique et de visualisat
 4. [**Visualisation des données**](https://github.com/pigaloup/E.T.L-AIRFLOW_Projet_Meteo_NASA-/blob/main/Readme_POWERBI.md) :
 Utilisation de **Power BI** pour créer des visualisations interactives les données météorologiques, en analysant les variables telles que :
 
+4. [**👉 VOIR LE DASHBORD DANS POWER BI **](https://github.com/pigaloup/E.T.L-AIRFLOW_Projet_Meteo_NASA-/blob/main/M%C3%A9t%C3%A9o_project.pbix)
+
 ---
 
-## 📂 Structure du DAG Airflow :
+## 📂 Structure du DAG Airflow 
 
 Le DAG `nasa_etl_pipeline` orchestre les 3 étapes :
 
