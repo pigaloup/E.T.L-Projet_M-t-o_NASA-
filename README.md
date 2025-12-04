@@ -10,25 +10,6 @@ Le projet comprend également des étapes d'analyse statistique et de visualisat
 
 ---
 
-
-## 🛠️ Compétences acquises
-En réalisant ce projet, j’ai développé les compétences suivantes :
-
-**Python avancé** :connexion avec la base de donnée Mysql, gestion des exceptions, logging, multithreading.
-
-**API REST** : Pour la collecte des données météorologiques de la NASA POWER.
-
-**Pandas & PySpark** : manipulation et transformation de données massives.
-
-**SQL/MySQL** : création de tables, insertion par batch, gestion des transactions.
-
-**Airflow** : orchestration de pipeline ETL, gestion des dépendances, planification.
-
-**Power BI** : analyse statistique et visualisation interactive des données.
-
-**Bonnes pratiques ETL** : modularité du code, robustesse, logs détaillés.
-
-
 ## ⚙️ Architecture du projet
 
 ### Étapes ETL
@@ -54,6 +35,7 @@ En réalisant ce projet, j’ai développé les compétences suivantes :
 4. [**Visualisation des données**](https://github.com/pigaloup/E.T.L-AIRFLOW_Projet_Meteo_NASA-/blob/main/Readme_POWERBI.md) :
 Utilisation de **Power BI** pour créer des visualisations interactives les données météorologiques, en analysant les variables telles que :
 
+---
 
 ## 📂 Structure du DAG Airflow
 
@@ -70,8 +52,26 @@ Voici une représentation visuelle du pipeline ETL orchestré avec Apache Airflo
 
 ![Schéma d’architecture du pipeline ETL](ETL+AIRFLOW/ETL_ARCHITECTURE.jpg)
 
-    
+---
 
+## 🛠️ Compétences acquises
+En réalisant ce projet, j’ai développé les compétences suivantes :
+
+**Python avancé** :connexion avec la base de donnée Mysql, gestion des exceptions, logging, multithreading.
+
+**API REST** : Pour la collecte des données météorologiques de la NASA POWER.
+
+**Pandas & PySpark** : manipulation et transformation de données massives.
+
+**SQL/MySQL** : création de tables, insertion par batch, gestion des transactions.
+
+**Airflow** : orchestration de pipeline ETL, gestion des dépendances, planification.
+
+**Power BI** : analyse statistique et visualisation interactive des données.
+
+**Bonnes pratiques ETL** : modularité du code, robustesse, logs détaillés.
+
+---
 
 ## Conclusion
 
