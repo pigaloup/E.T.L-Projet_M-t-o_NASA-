@@ -66,11 +66,9 @@ Le DAG `nasa_etl_pipeline` orchestre les 3 étapes :
 
 🖼️ Schéma d’architecture du pipeline ETL
 
-    API[NASA POWER API] --> |Extraction| Airflow[Apache Airflow]
-    Airflow --> |Orchestration| Spark[PySpark]
-    Spark --> |Transformation| CSV[CSV Nettoyé]
-    CSV --> |Chargement| MySQL[(Base MySQL)]
-    MySQL --> |Analyse & Visualisation| PowerBI[Power BI]
+Voici une représentation visuelle du pipeline ETL orchestré avec Apache Airflow :
+
+![DAG Pipeline](Diagramme d’architec.png)
 
     
 
