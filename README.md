@@ -52,6 +52,18 @@ Voici une représentation visuelle du pipeline ETL orchestré avec Apache Airflo
 
 ![Schéma d’architecture du pipeline ETL](ETL+AIRFLOW/ETL_ARCHITECTURE.jpg)
 
+Ce schéma illustre le flux complet :
+
+- Les données sont extraites depuis l’API NASA POWER.
+
+- Airflow orchestre le pipeline.
+
+- Spark nettoie et transforme les données.
+
+- Les résultats sont sauvegardés en CSV puis insérés dans MySQL.
+
+- Power BI permet ensuite d’analyser et de visualiser les données sous forme de rapports interactifs.
+
 ---
 
 ## 📊 Résultats attendus aprés éxécution:
