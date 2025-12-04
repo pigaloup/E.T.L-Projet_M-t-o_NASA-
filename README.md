@@ -46,6 +46,7 @@ Le DAG `nasa_etl_pipeline` orchestre les 3 étapes :
 - **Task 2 : `transform_data`** → Nettoie et transforme les données avec Spark.  
 - **Task 3 : `load_data`** → Charge les données dans MySQL.
 
+![Structure du DAG Airflow](ETL+AIRFLOW/Capture.PNG)
 
 ## 🖼️ Schéma d’architecture du pipeline ETL:
 
