@@ -73,6 +73,9 @@ Ce schéma illustre le flux complet :
   
 ---
 
+[🎬 Voir la démonstration](./ETL+AIRFLOW/ETL_AIRFLOW_METEO.mp4)
+
+
 ## 🛠️ Compétences acquises:
 
 En réalisant ce projet, j’ai développé les compétences suivantes :
