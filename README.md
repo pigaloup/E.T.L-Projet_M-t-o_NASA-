@@ -92,7 +92,7 @@ En réalisant ce projet, j’ai développé les compétences suivantes :
 
 ## 📈 Impact et valeur ajoutée
 
-- Automatisation complète du pipeline, réduisant les interventions manuelles  
+- Automatisation complète du pipeline,réduisant les interventions manuelles  
 - Amélioration de la **fiabilité** et de la **traçabilité** des traitements  
 - Mise en place d’une architecture reproductible et évolutive  
 - Démonstration de compétences clés recherchées en **data engineering**
