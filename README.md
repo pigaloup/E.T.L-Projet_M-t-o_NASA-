@@ -60,7 +60,8 @@ Voici une représentation visuelle du pipeline ETL orchestré avec Apache Airflo
 - Données météorologiques nettoyées et prêtes pour l’analyse.
 - Fichiers CSV intermédiaires pour audit et traçabilité.
 - Logs détaillés (etl_execution.log) pour suivre l’exécution.
-
+  
+---
 
 ## 🛠️ Compétences acquises:
 
