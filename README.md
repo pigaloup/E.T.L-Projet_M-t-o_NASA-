@@ -56,10 +56,10 @@ Voici une représentation visuelle du pipeline ETL orchestré avec Apache Airflo
 
 ## 📊 Résultats attendus aprés éxécution:
 
--Base MySQL meteo_db_PAYS_AIRFLOW contenant la table meteo_data_PAYS_AIRFLOW.
--Données météorologiques nettoyées et prêtes pour l’analyse.
--Fichiers CSV intermédiaires pour audit et traçabilité.
--Logs détaillés (etl_execution.log) pour suivre l’exécution.
+- Base MySQL meteo_db_PAYS_AIRFLOW contenant la table meteo_data_PAYS_AIRFLOW.
+- Données météorologiques nettoyées et prêtes pour l’analyse.
+- Fichiers CSV intermédiaires pour audit et traçabilité.
+- Logs détaillés (etl_execution.log) pour suivre l’exécution.
 
 
 ## 🛠️ Compétences acquises:
