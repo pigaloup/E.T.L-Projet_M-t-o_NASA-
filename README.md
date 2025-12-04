@@ -67,13 +67,13 @@ Voici une représentation visuelle du pipeline ETL orchestré avec Apache Airflo
 
 En réalisant ce projet, j’ai développé les compétences suivantes :
 
-**Python avancé** :connexion avec la base de donnée Mysql, gestion des exceptions, logging, multithreading.
-**API REST** : Pour la collecte des données météorologiques de la NASA POWER.
-**Pandas & PySpark** : manipulation et transformation de données massives.
-**SQL/MySQL** : création de tables, insertion par batch, gestion des transactions.
-**Airflow** : orchestration de pipeline ETL, gestion des dépendances, planification.
-**Power BI** : analyse statistique et visualisation interactive des données.
-**Bonnes pratiques ETL** : modularité du code, robustesse, logs détaillés.
+- **Python avancé** :connexion avec la base de donnée Mysql, gestion des exceptions, logging, multithreading.
+- **API REST** : Pour la collecte des données météorologiques de la NASA POWER.
+- **Pandas & PySpark** : manipulation et transformation de données massives.
+- **SQL/MySQL** : création de tables, insertion par batch, gestion des transactions.
+- **Airflow** : orchestration de pipeline ETL, gestion des dépendances, planification.
+- **Power BI** : analyse statistique et visualisation interactive des données.
+- **Bonnes pratiques ETL** : modularité du code, robustesse, logs détaillés.
 
 ---
 
