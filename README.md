@@ -51,7 +51,7 @@ En réalisant ce projet, j’ai développé les compétences suivantes :
    - Insertion des données par **batchs** pour optimiser les performances.
    - Gestion des erreurs et rollback en cas d’échec.
 
-4. **Visualisation des données** :
+4. **Visualisation des données** [ (https://github.com/pigaloup/E.T.L-AIRFLOW_Projet_Meteo_NASA-/blob/main/Readme_POWERBI.md)] :
 Utilisation de **Power BI** pour créer des visualisations interactives les données météorologiques, en analysant les variables telles que :
 
 
