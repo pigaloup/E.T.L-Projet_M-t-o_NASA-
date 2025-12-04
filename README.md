@@ -34,8 +34,6 @@ Le projet comprend également des étapes d'analyse statistique et de visualisat
 4. [**Visualisation des données**](https://github.com/pigaloup/E.T.L-AIRFLOW_Projet_Meteo_NASA-/blob/main/Readme_POWERBI.md) :
 Utilisation de **Power BI** pour créer des visualisations interactives les données météorologiques, en analysant les variables telles que :
 
-[👉 Voir la Visualisation des données dans Power BI](https://github.com/pigaloup/E.T.L-AIRFLOW_Projet_Meteo_NASA-/blob/main/M%C3%A9t%C3%A9o_project.pbix)
-
 ---
 
 ## 📂 Structure du DAG Airflow 
@@ -100,7 +98,10 @@ En réalisant ce projet, j’ai développé les compétences suivantes :
 - Mise en place d’une architecture reproductible et évolutive  
 - Démonstration de compétences clés recherchées en **data engineering**
 
-  
+[👉 Voir la Visualisation des données dans Power BI](https://github.com/pigaloup/E.T.L-AIRFLOW_Projet_Meteo_NASA-/blob/main/M%C3%A9t%C3%A9o_project.pbix)
+![Visualisation des données](ETL+AIRFLOW/1.PNG)
+![Visualisation des données](ETL+AIRFLOW/2.PNG)
+
 ## Conclusion
 
 Ce projet met en œuvre un processus ETL complet de collecte, transformation, et stockage des données météorologiques.
