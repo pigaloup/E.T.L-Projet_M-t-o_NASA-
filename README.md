@@ -13,20 +13,20 @@ Le projet comprend également des étapes d'analyse statistique et de visualisat
 ## ⚙️ Architecture du projet
 
 ### Étapes ETL
-1. **Extraction**
+1. **Extraction** :
    - Requête API NASA POWER (paramètres météo : température, humidité, vent, précipitations, etc.).
    - Données collectées pour plusieurs villes par pays.
    - Utilisation de **multithreading** (`concurrent.futures`) pour accélérer les appels API.
    - Sauvegarde initiale en **CSV**.
 
-2. **Transformation et nettoyage des données**
+2. **Transformation et nettoyage des données** :
    - Chargement des données brutes dans **PySpark**.
    - Nettoyage : suppression des doublons, gestion des valeurs manquantes, filtrage des anomalies.
    - Conversion des dates en colonnes distinctes pour la date et l'heure.
    - Renommage des colonnes pour plus de lisibilité (`temperature_air`, `pression`, `humidite_relative`, etc.).
    - Export des données nettoyées en **CSV**.
 
-3. **Chargement**
+3. **Chargement** :
    - Connexion à une base **MySQL**.
    - Création automatique de la base et de la table si elles n’existent pas.
    - Insertion des données par **batchs** pour optimiser les performances.
@@ -37,7 +37,7 @@ Utilisation de **Power BI** pour créer des visualisations interactives les donn
 
 ---
 
-## 📂 Structure du DAG Airflow
+## 📂 Structure du DAG Airflow :
 
 Le DAG `nasa_etl_pipeline` orchestre les 3 étapes :
 
@@ -46,28 +46,32 @@ Le DAG `nasa_etl_pipeline` orchestre les 3 étapes :
 - **Task 3 : `load_data`** → Charge les données dans MySQL.
 
 
-🖼️ Schéma d’architecture du pipeline ETL
+## 🖼️ Schéma d’architecture du pipeline ETL:
 
 Voici une représentation visuelle du pipeline ETL orchestré avec Apache Airflow :
 
 ![Schéma d’architecture du pipeline ETL](ETL+AIRFLOW/ETL_ARCHITECTURE.jpg)
+
 ---
 
-## 🛠️ Compétences acquises
+## 📊 Résultats attendus aprés éxécution:
+
+-Base MySQL meteo_db_PAYS_AIRFLOW contenant la table meteo_data_PAYS_AIRFLOW.
+-Données météorologiques nettoyées et prêtes pour l’analyse.
+-Fichiers CSV intermédiaires pour audit et traçabilité.
+-Logs détaillés (etl_execution.log) pour suivre l’exécution.
+
+
+## 🛠️ Compétences acquises:
+
 En réalisant ce projet, j’ai développé les compétences suivantes :
 
 **Python avancé** :connexion avec la base de donnée Mysql, gestion des exceptions, logging, multithreading.
-
 **API REST** : Pour la collecte des données météorologiques de la NASA POWER.
-
 **Pandas & PySpark** : manipulation et transformation de données massives.
-
 **SQL/MySQL** : création de tables, insertion par batch, gestion des transactions.
-
 **Airflow** : orchestration de pipeline ETL, gestion des dépendances, planification.
-
 **Power BI** : analyse statistique et visualisation interactive des données.
-
 **Bonnes pratiques ETL** : modularité du code, robustesse, logs détaillés.
 
 ---
